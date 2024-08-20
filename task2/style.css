@@ -126,3 +126,9 @@ html, body {
   footer {
     margin-top: 10px;
   }
+button {
+    height:30px;
+    width:70px;
+    margin-left:1rem;
+    background:#333
+}
